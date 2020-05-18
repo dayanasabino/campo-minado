@@ -1,6 +1,6 @@
 # campo_minado
 
-A new Flutter project.
+App do jogo campo minado em Flutter, futuramente será implementado níveis e opções de layout.
 
 ## Getting Started
 
