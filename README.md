@@ -2,9 +2,9 @@
 
 App do jogo campo minado em Flutter, futuramente será implementado níveis e opções de layout.
 
-## Tecnologias
+# Tecnologias
 
-This project is a starting point for a Flutter application.
+Flutter
 
 # Imagens
 
